@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/724539187777594428/1c37d5ce1dca4859a78e2cd21c4b3daa/artifacts
+end_time: 1754851773450
+entry_point_name: ''
+experiment_id: '724539187777594428'
+lifecycle_stage: active
+run_id: 1c37d5ce1dca4859a78e2cd21c4b3daa
+run_name: wistful-eel-928
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754851758779
+status: 3
+tags: []
+user_id: Mohammad Soban

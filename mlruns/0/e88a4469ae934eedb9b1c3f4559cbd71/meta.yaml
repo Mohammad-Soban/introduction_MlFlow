@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e88a4469ae934eedb9b1c3f4559cbd71/artifacts
+deleted_time: 1754823811814
+end_time: 1754823357098
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e88a4469ae934eedb9b1c3f4559cbd71
+run_name: bright-wolf-679
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754823352941
+status: 4
+tags: []
+user_id: Mohammad Soban

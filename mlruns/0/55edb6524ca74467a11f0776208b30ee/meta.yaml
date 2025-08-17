@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/55edb6524ca74467a11f0776208b30ee/artifacts
+end_time: 1754823899568
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55edb6524ca74467a11f0776208b30ee
+run_name: brawny-pig-865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754823897554
+status: 3
+tags: []
+user_id: Mohammad Soban

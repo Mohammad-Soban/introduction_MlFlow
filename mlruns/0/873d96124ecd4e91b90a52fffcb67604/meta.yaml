@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/873d96124ecd4e91b90a52fffcb67604/artifacts
+end_time: 1754821945191
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 873d96124ecd4e91b90a52fffcb67604
+run_name: orderly-duck-243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754821944936
+status: 3
+tags: []
+user_id: Mohammad Soban

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/724539187777594428/d47062706bb84673a4f55b5650cc34dc/artifacts
+end_time: 1754845596382
+entry_point_name: ''
+experiment_id: '724539187777594428'
+lifecycle_stage: active
+run_id: d47062706bb84673a4f55b5650cc34dc
+run_name: luminous-pug-633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754845594354
+status: 3
+tags: []
+user_id: Mohammad Soban
