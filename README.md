@@ -250,6 +250,14 @@ mlflow.autolog()
    - Hyperparameters or configurations that are outside the scope of the framework’s autologging capabilities (e.g., specific settings in a custom grid search).
 
 
-### Summary
-- **Use Cases:** `mlflow.autolog` is great for quick and convenient logging, especially for standard workflows in supported frameworks.
-- **Limitations:** Custom elements, complex structures, and unsupported frameworks require manual logging to capture all relevant details.
+### Model Registry
+- There are generally stages in any project lifecycle including development phase, staging phase, production phase and then Retirement phase.
+- MLflow provides a model registry to manage and version your machine learning models throughout these stages.
+- You can register models, transition them between stages, and annotate them with metadata.
+
+
+### Registering Models
+- To register a model in MLflow, you can use the `mlflow.register_model` function.
+- This function takes the model URI (e.g., the path to the model artifact) and the name you want to give the registered model.
+- Once registered, you can manage the model's lifecycle, including versioning and stage transitions.
+- Or you can also register models using the MLflow UI, which provides a user-friendly interface for managing your models.
